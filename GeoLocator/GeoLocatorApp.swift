@@ -11,7 +11,7 @@ import SwiftUI
 struct GeoLocatorApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MapScreen()
         }
     }
 }
